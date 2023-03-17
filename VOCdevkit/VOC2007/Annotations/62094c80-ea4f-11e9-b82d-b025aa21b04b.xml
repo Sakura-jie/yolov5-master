@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>62094c80-ea4f-11e9-b82d-b025aa21b04b.jpg</filename>
+	<path>F:\Yolov5\VOC2007\JPEGImage\62094c80-ea4f-11e9-b82d-b025aa21b04b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>130</width>
+		<height>155</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zhoujielun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>11</ymin>
+			<xmax>116</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

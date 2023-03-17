@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>66.png</filename>
+	<path>F:\Yolov5\VOC2007\JPEGImage\66.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liuyifei</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>105</ymin>
+			<xmax>279</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>51.png</filename>
+	<path>F:\Yolov5\VOC2007\JPEGImage\51.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>110</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liangjiahui</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>6</ymin>
+			<xmax>87</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>
